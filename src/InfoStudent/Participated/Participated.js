@@ -151,6 +151,21 @@ const Participated = () => {
                             </tbody>
                         </table>
                     </div>
+                    <div className="tab-pane fade" id="TinhNguyen" role="tabpanel" aria-labelledby="TinhNguyen-tab">
+                        <table className="table table-hover ">
+                            <thead className="table-light">
+                                <tr>
+                                    <th className="text-center" scope="col">STT</th>
+                                    <th className="text-center" scope="col">Thời Gian</th>
+                                    <th scope="col">Chương Trình</th>
+                                    <th scope="col">Ghi Chú</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+
+                            </tbody>
+                        </table>
+                    </div>
                 </div>
             </div>
         </div>
