@@ -31,7 +31,7 @@ const CircularProgressWithLabel = (props) => {
           position="absolute"
           display="flex"
           alignItems="center"
-          justifyContent="center">Title</Box>
+          justifyContent="center">{props.Name}</Box>
       </Box>
     </div>
   );
